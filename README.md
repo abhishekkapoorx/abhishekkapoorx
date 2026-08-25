@@ -60,7 +60,7 @@ This experience gave me hands-on exposure to LLM agents, RAG, graph-based memory
 | [DevOps Agent](https://github.com/abhishekkapoorx/devops-agent) | LangGraph · LangSmith · AWS · GCP · Docker · Pinecone · Neo4j | Autonomous deployment agent with vector retrieval and graph reasoning |
 | [DeepDSA](https://github.com/abhishekkapoorx/deepdsa) | Next.js · PostgreSQL · Redis · Microservices | AI interview platform with speech-to-text LLM interviewer; 65% improvement in assessment efficiency |
 | [Harmonia AI](https://github.com/abhishekkapoorx/harmonia-ai) | PyTorch · LangChain · Google Fit API · Apple Health | RAG-based women's health app; 87% PCOS detection accuracy, 99% on ultrasound data |
-| [Amazon ML Challenge](https://github.com/abhishekkapoorx/amazon-ml-challenge) | CNN · DNN · Sentence Transformers · XGBoost | Top-percentile finish (SMAPE 56); multimodal price prediction from images and text |
+| [Amazon ML Challenge](https://github.com/abhishekkapoorx/amazon-ml-challenge-2025) | CNN · DNN · Sentence Transformers · XGBoost | Top-percentile finish (SMAPE 56); multimodal price prediction from images and text |
 
 
 ## Tech Stack
